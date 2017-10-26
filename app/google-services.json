@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "504786069957",
+    "firebase_url": "https://mobileotp-de6a9.firebaseio.com",
+    "project_id": "mobileotp-de6a9",
+    "storage_bucket": "mobileotp-de6a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504786069957:android:e84151b5171f68e3",
+        "android_client_info": {
+          "package_name": "com.example.jayesh.mobileotp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504786069957-1tak6mhq01aijv7br7tf2rog3kaelkbu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jayesh.mobileotp",
+            "certificate_hash": "18ac0b13d8e5144ca69be53d3ba9bdc89326f6c1"
+          }
+        },
+        {
+          "client_id": "504786069957-j7i81lnf8tn9f1mc3lcjgp49fkknd0d3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIye2m2pu1HHbWm_B6KfvGbVNfO78um2s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504786069957-j7i81lnf8tn9f1mc3lcjgp49fkknd0d3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
