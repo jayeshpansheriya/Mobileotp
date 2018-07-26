@@ -1,7 +1,7 @@
 # Mobileotp
-<br>
-# FireBasePhoneAuth
-FireBase Phone Auth 
+
+** FireBasePhoneAuth **
+
 Sample app to show the how phone authentication work using firebase.
 we can use firebase phone number verification by otp otp is send by firebase and it auto detect the sms and verify the phone number.
 some time auto detect not work then we can insert the otp code manually.
