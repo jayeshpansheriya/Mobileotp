@@ -1,5 +1,5 @@
 # Mobileotp
-
+---
 ** FireBasePhoneAuth **
 
 Sample app to show the how phone authentication work using firebase.
